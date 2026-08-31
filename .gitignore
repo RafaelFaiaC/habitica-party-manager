@@ -1,0 +1,60 @@
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+publish/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+## Visual Studio cache/options directory
+.vs/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+
+## NuGet Packages
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Others
+*.log
+*.tmp
+*.bak
+
+## Segredos e configs locais (importante para este projeto)
+appsettings.*.local.json
+secrets.json
+*.pfx
